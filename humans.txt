@@ -5,6 +5,8 @@
 
     <name> -- <role> -- <twitter>
 
+	gab tuquib	gabtuquib26@gmail.com	@gabtuquib
+
 # THANKS
 
     <name>
